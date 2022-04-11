@@ -1,0 +1,14 @@
+﻿  Camera.cpp
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\INIReaderV2.h(163,5): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\INIReaderV2.h(292,12): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Cursor.cpp
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\Cursor.cpp(7,55): error C2664: 'HCURSOR LoadCursorFromFileW(LPCWSTR)': cannot convert argument 1 from 'LPCSTR' to 'LPCWSTR'
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\Cursor.cpp(7,39): message : Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or function-style cast
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\um\winuser.h(10565,1): message : see declaration of 'LoadCursorFromFileW'
+  HSV.cpp
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\HSV.cpp(1,10): fatal error C1083: Cannot open include file: 'opencv2/opencv.hpp': No such file or directory
+  HsvDlib.cpp
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\HsvDlib.cpp(2,10): fatal error C1083: Cannot open include file: 'dlib/opencv.h': No such file or directory
+  TMheadtrack.cpp
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\HsvDlib.h(2,10): fatal error C1083: Cannot open include file: 'dlib/opencv.h': No such file or directory
+  Generating Code...

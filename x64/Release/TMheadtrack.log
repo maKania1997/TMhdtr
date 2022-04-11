@@ -1,0 +1,21 @@
+﻿  HsvDlib.cpp
+C:\projekte\TMhdtr_dir\3rdP\dlib_rel\dlib-19.6\dlib\console_progress_indicator.h(153,28): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\faceBlendCommon.hpp(61,21): warning C4018: '<': signed/unsigned mismatch
+C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\HsvDlib.cpp(304,11): warning C4101: 'value': unreferenced local variable
+C:\projekte\TMhdtr_dir\3rdP\dlib_rel\dlib-19.6\dlib\serialize.h(527,17): warning C4834: discarding return value of function with 'nodiscard' attribute
+C:\projekte\TMhdtr_dir\3rdP\dlib_rel\dlib-19.6\dlib\serialize.h(587): message : see reference to function template instantiation 'bool dlib::old_deserialize_floating_point<T>(T &,std::istream &)' being compiled
+          with
+          [
+              T=float
+          ]
+C:\projekte\TMhdtr_dir\3rdP\dlib_rel\dlib-19.6\dlib\serialize.h(599): message : see reference to function template instantiation 'void dlib::deserialize_floating_point<float>(T &,std::istream &)' being compiled
+          with
+          [
+              T=float
+          ]
+  Generating code
+  2 of 4445 functions (<0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    36 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TMheadtrack.vcxproj -> C:\projekte\TMhdtr_dir\TMhdtr_src\TMhdtr\TMhdtr\TMheadtrack\x64\Release\TMheadtrack.exe
